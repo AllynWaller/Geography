@@ -1,4 +1,4 @@
-PtolemyData
-===========
+Geography
+=========
 
-The sites from Polemy's /Almagest/
+The sites from Polemy's Geography
